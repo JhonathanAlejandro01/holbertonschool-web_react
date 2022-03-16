@@ -1,6 +1,7 @@
 # 0x06. React state
 
 ## Resources
+
 - [State and lifecycle](https://reactjs.org/docs/state-and-lifecycle.html)
 - [SetState and State callback](https://reactjs.org/docs/react-component.html#setstate)
 - [Context](https://reactjs.org/docs/context.html)
@@ -13,6 +14,7 @@
 - [Enzyme Simulate](https://enzymejs.github.io/enzyme/docs/api/ShallowWrapper/simulate.html)
 
 ## Learning Objectives
+
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
 - What the state of a component or a container is
@@ -24,14 +26,13 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 - The use of a React Hook and how to create one
 - How to test State changes with Enzyme
 
-
-
 ## Author ✒️
 
 _Developed by_
 
-**Yoyman Castellar** :computer: :man: 
+**Yoyman Castellar** :computer: :man:
 
-- Github - [ymcastellar](https://github.com/ymcastellar)
-- Twitter - [@CastellarYoyman](https://twitter.com/CastellarYoyman)
-- LinkedIn - [yoyman-castellar](https://www.linkedin.com/in/yoyman-castellar/)
+**Jhonatan Angarita**
+
+- [Twitter](https://twitter.com/Alejandro_Angar)
+- LinkedIn - [Jhonathan Alejandro](https://github.com/JhonathanAlejandro01)
